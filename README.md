@@ -14,7 +14,7 @@
 
 | Top View (MCU, USB-C, Power Path) | Bottom View (Optical PPG, IMU, Actuators) |
 | :---: | :---: |
-| ![Leonardo V1.0 Top View](./top.jpg) | ![Leonardo V1.0 Bottom View](./bottom.jpg) |
+| ![Leonardo V1.0 Top View](./top.png) | ![Leonardo V1.0 Bottom View](./bottom.png) |
 
 </div>
 
